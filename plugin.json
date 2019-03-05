@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "ManoMano",
+  "marketplaceName": {
+    "de": "ManoMano",
+    "en": "ManoMano"
+  },
+  "description": "",
+  "namespace": "ManoMano",
+  "pluginIcon": "icon_plugin_xs.png",
+  "author": "ManoMano",
+  "email": "",
+  "authorIcon": "icon_author_xs.png",
+  "shortDescription": {
+    "de": "",
+    "en": ""
+  },
+  "categories": [],
+  "price": 0.00,
+  "type": "plentyinfo"
+}
