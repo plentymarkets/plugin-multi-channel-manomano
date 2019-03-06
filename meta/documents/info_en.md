@@ -3,17 +3,10 @@
 
 <div class="container-toc"></div>
 
-ManoMano specialises in gardening and craftwork.
+ManoMano specialises in gardening and craftwork. Shoppers from all over Europe - Germany, the United Kingdom, France, Belgium, Spain and Italy - can choose from more than 2 million products.<br/>
 
+Founded in France, ManoMano has grown to become the number one place to look for gardening and craftwork supplies in France. The gardening and craftwork specialist also grows continually in other countries (420 million € trading volume in 2018 with more than 25% international trading volume).<br/>
 
+If you're looking for a gardening expert with a huge community of DIY and gardening enthusiasts (more than one million long-term customers, 700k fans on Facebook), which only collaborates with selected sellers, then ManoMano ist the place to be!
 
-
-
-
-
-Der Spezialist für Gartenarbeiten und Heimhandwerk ManoMano zählt 20 Millionen Besuche pro Monat und mehr als zwei Millionen Produkte auf seinen europäischen Plattformen in Deutschland, Frankreich, Belgien, Spanien, Italien und Großbritannien.<br/>
-
-ManoMano stammt aus Frankreich und ist dort seit 2016 die Nummer 1 in den Kategorien Heimwerken und Garten. In allen anderen Ländern wächst der Spezialist kontinuierlich weiter (420 Mio. € Handelsvolumen in 2018, davon mehr als 25% international).<br/>
-
-Wenn Sie auf der Suche nach einem spezialisierten Marktplatz sind, der für eine große Gemeinschaft von begeisterten Heimwerkern und Gärtnern steht (mehr als 1 Mio. Stammkunden, 700k Fans auf Facebook) und nur mit ausgewählten Händlern zusammenarbeitet, sind Sie bei ManoMano genau richtig!
 
