@@ -5,17 +5,20 @@
     "de": "ManoMano",
     "en": "ManoMano"
   },
-  "description": "",
+  "description": "ManoMano ist ein Marktplatz, der sich auf Garten und Heimhandwerk spezialisiert.",
   "namespace": "ManoMano",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "ManoMano",
   "email": "",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "",
-    "en": ""
+    "de": "ManoMano ist ein Marktplatz, der sich auf Garten und Heimhandwerk spezialisiert.",
+    "en": "ManoMano is a marketplace which specialises in gardening and DIY accessories."
   },
-  "categories": [],
+  "categories": [
+    3881
+  ],
+  "license": "-",
   "price": 0.00,
   "type": "plentyinfo"
 }
